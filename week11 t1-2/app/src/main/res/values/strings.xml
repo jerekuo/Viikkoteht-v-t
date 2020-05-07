@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Week11uus</string>
+    <string name="settings">Settings</string>
+
+    <string name="openNavDrawer"> Navigation drawer open</string>
+
+    <string name="closeNavDrawer"> Navigation drawer close</string>
+    <string name="menu">MENU</string>
+    <string name="set_width_of_the_text_box">Set width of the text box:</string>
+    <string name="set_font_size">Set font size:</string>
+    <string name="set_height_of_the_text_box">Set height of the text box:</string>
+    <string name="number_of_rows_in_text_box">Number of rows in text box:</string>
+    <string name="second_textbox_editable">Second textbox editable?</string>
+    <string name="save_settings">Save settings</string>
+</resources>
